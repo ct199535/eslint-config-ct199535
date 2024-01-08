@@ -1,6 +1,6 @@
 # eslint-config-tasoskakour-typescript-prettier
 
-> ESLint + Prettier Typescript shareable config for [tasoskakour](https://tasoskakour.com)’s coding style
+> ESLint + Prettier Typescript shareable config for [Milkhail](milkhail-alif.netlify.app)’s coding style
 
 This repo structure is heavily influenced by my buddy's Napoleon repo: [https://github.com/iamnapo/eslint-config-iamnapo](https://github.com/iamnapo/eslint-config-iamnapo)
 
